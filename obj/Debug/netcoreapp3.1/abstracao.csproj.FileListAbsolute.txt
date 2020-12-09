@@ -1,0 +1,13 @@
+C:\Users\DEV\Desktop\abstracao\bin\Debug\netcoreapp3.1\abstracao.exe
+C:\Users\DEV\Desktop\abstracao\bin\Debug\netcoreapp3.1\abstracao.deps.json
+C:\Users\DEV\Desktop\abstracao\bin\Debug\netcoreapp3.1\abstracao.runtimeconfig.json
+C:\Users\DEV\Desktop\abstracao\bin\Debug\netcoreapp3.1\abstracao.runtimeconfig.dev.json
+C:\Users\DEV\Desktop\abstracao\bin\Debug\netcoreapp3.1\abstracao.dll
+C:\Users\DEV\Desktop\abstracao\bin\Debug\netcoreapp3.1\abstracao.pdb
+C:\Users\DEV\Desktop\abstracao\obj\Debug\netcoreapp3.1\abstracao.csprojAssemblyReference.cache
+C:\Users\DEV\Desktop\abstracao\obj\Debug\netcoreapp3.1\abstracao.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\abstracao\obj\Debug\netcoreapp3.1\abstracao.AssemblyInfo.cs
+C:\Users\DEV\Desktop\abstracao\obj\Debug\netcoreapp3.1\abstracao.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\abstracao\obj\Debug\netcoreapp3.1\abstracao.dll
+C:\Users\DEV\Desktop\abstracao\obj\Debug\netcoreapp3.1\abstracao.pdb
+C:\Users\DEV\Desktop\abstracao\obj\Debug\netcoreapp3.1\abstracao.genruntimeconfig.cache
