@@ -13,7 +13,6 @@ namespace abstracao.classes
         public void Registrar(float valor, DateTime dataEmissao, string codigoDeBarras){
             Console.WriteLine($"O valor da compra fica em ${valor * 0.88f}");
             Console.WriteLine($"A data de emissao = {dataEmissao}");
-            Console.WriteLine($"Data de vencimento = {dataEmissao.data}");
             Console.WriteLine($"Código de barras = {codigoDeBarras}");
             
         }

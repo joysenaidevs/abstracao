@@ -11,10 +11,17 @@ namespace abstracao
 
             //fazer um do while
 
-            Console.WriteLine("Digite o valor da compra");
-            float valorDaCompra = float.Parse(Console.ReadLine());
+            string resposta;
+            float valorDaCompra;
+            
+            do
+            {
+                Console.WriteLine("Digite o valor da compra: ");
+                valorDaCompra = float.Parse(Console.ReadLine());
 
-            Console.WriteLine("Voce confirma o valor da compra");
+                Console.WriteLine("Voce confirma o valor da compra?");
+                resposta = Console.ReadLine();
+            } while (resposta != "s");
 
             //fazer um do while
 
