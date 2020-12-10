@@ -11,10 +11,7 @@ namespace abstracao.classes
         public string SalvarCartao(){
             return "Você concluiu seu cadastro com sucesso";
         }
-        public override string Desconto(int valor)
-        {
-            return "Voce não obterá desconto";
-        }
+        
 
 
 

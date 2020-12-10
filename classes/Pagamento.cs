@@ -7,7 +7,15 @@ namespace abstracao.classes
         //atributos
 
         private DateTime data;
+        public DateTime Data{
+            get {return DateTime.Now;}
+            
+        }
         protected float valor;
+        public float Valor{
+            set {valor = value;}
+            get {return valor;}
+        }
         
         //metodos
 
@@ -17,7 +25,8 @@ namespace abstracao.classes
 
         //abstracao de metodos
         //obrigatorio - precisa ser implementado nas classes filhas
-        public abstract string Desconto(int valor);
+        // public abstract string Desconto(int valor);
+        // public abstract string Juros(int parcelas);
 
     }
 }
